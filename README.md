@@ -20,3 +20,7 @@ Resources getting started with Netlify
 ### Getting started with Netlify
 
 [netlify docs Getting started](https://docs.netlify.com/)
+
+### Netlify CLI
+
+[Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
