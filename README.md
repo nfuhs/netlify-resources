@@ -24,3 +24,7 @@ Resources getting started with Netlify
 ### Netlify CLI
 
 [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
+
+### Netlify Support Forums
+
+[Netlify Support Forums](https://answers.netlify.com/)
