@@ -28,3 +28,7 @@ Resources getting started with Netlify
 ### Netlify Support Forums
 
 [Netlify Support Forums](https://answers.netlify.com/)
+
+### Netlify on Social Media
+
+[Twitter](https://twitter.com/Netlify) [Facebook](https://www.facebook.com/netlify/)
