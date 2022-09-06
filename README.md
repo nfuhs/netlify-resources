@@ -16,3 +16,7 @@ Resources getting started with Netlify
 [https://jamstack.org/](https://jamstack.org/)
 
 [Jamstack Radio Podcast](https://www.heavybit.com/library/podcasts/jamstack-radio/)
+
+### Getting started with Netlify
+
+[netlify docs Getting started](https://docs.netlify.com/)
