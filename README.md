@@ -10,6 +10,8 @@ Resources getting started with Netlify
 
 [What is Jamstack by Ania Kubow](https://www.youtube.com/watch?v=hqG8hg2l03k)
 
+[What is the JAMStack? ft Matt Biilmann | Prismic](https://www.youtube.com/watch?v=1ZfMpG6ML-w)
+
 
 [https://jamstack.org/](https://jamstack.org/)
 
