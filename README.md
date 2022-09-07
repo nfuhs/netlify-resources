@@ -6,15 +6,23 @@ Resources getting started with Netlify
 
 [Wikipedia Netlify](https://en.wikipedia.org/wiki/Netlify)
 
-### Jamstack
+## Jamstack
 
+ ### What is Jamstack?
 <div align="left">
       <a href="https://www.youtube.com/watch?v=hqG8hg2l03k">
          <img src="https://img.youtube.com/vi/hqG8hg2l03k/0.jpg" style="width:50%;">
       </a>
 </div>
 
-[What is the JAMStack? ft Matt Biilmann | Prismic](https://www.youtube.com/watch?v=1ZfMpG6ML-w)
+### What is the JAMStack? ft Matt Biilmann  Prismic
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=1ZfMpG6ML-w">
+         <img src="https://img.youtube.com/vi/1ZfMpG6ML-w/0.jpg" style="width:50%;">
+      </a>
+</div>
+
 
 
 [https://jamstack.org/](https://jamstack.org/)
