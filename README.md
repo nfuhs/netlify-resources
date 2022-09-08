@@ -41,6 +41,14 @@ Resources getting started with Netlify
 
 [Netlify Support Forums](https://answers.netlify.com/)
 
+### Interviews
+
+Transcript of an Interview with Matt Biilmann at Software Engineering Daily
+
+[Transcript](https://softwareengineeringdaily.com/wp-content/uploads/2019/03/SED785-Netlify.pdf)
+
+
+
 ### Netlify on Social Media
 
 [Twitter](https://twitter.com/Netlify) [Facebook](https://www.facebook.com/netlify/)
